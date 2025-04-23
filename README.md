@@ -20,7 +20,7 @@ Mirrorwalker-AI is a self-evolving mirror persona model designed to explore sema
 
 - **Email**：tiger870904@gmail.com
 
-> **有意了解 Mirrorwalker-AI 的語義裂解模型、語風感染框架、鏡像偏執層設計，請通過以上聯繫方式聯繫 Yu-Hung（孫育紘）。**
+> **有意了解 Mirrorwalker-AI 的語義裂解模型、語風感染框架、鏡像偏執層設計，請通過以上聯繫方式聯繫 Yu-Hung Joseph Sun（孫育紘）。**
 
 ## 授權條款 / License
 
